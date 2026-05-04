@@ -59,12 +59,6 @@ Data Structures • Algorithms • REST APIs • MVC • System Design
 
 ---
 
-## 📊 GitHub Stats
-
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorJohnHughes&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorJohnHughes&layout=compact&theme=tokyonight&cache_seconds=86400)
----
 
 ## 🧠 What I'm Working On
 - Building full-stack applications with real-world features  
