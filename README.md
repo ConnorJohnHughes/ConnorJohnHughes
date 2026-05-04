@@ -62,3 +62,6 @@ Data Structures, Algorithms, REST APIs, MVC Architecture
 
 LinkedIn: https://www.linkedin.com/in/connorjh  
 Email: connorjohnhughes@gmail.com  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=ConnorJohnHughes&color=red)
