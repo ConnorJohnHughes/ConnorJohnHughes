@@ -1,4 +1,9 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+Problem+Solver;Building+Real+World+Apps)
+
 # 👋 Hey, I'm Connor Hughes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 💻 Software Development student at Green River College  
 🚀 Focused on full-stack development & problem solving  
@@ -56,10 +61,9 @@ Data Structures • Algorithms • REST APIs • MVC • System Design
 
 ## 📊 GitHub Stats
 
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorJohnHughes&show_icons=true&theme=tokyonight)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorJohnHughes&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorJohnHughes&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorJohnHughes&layout=compact&theme=tokyonight&cache_seconds=86400)
 ---
 
 ## 🧠 What I'm Working On
